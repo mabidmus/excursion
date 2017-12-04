@@ -1,1 +1,22 @@
-html {font-family: Verdana}
+html {font-family: Verdana;
+  background-color: black;
+text-align: center;
+}
+.discover {font-weight: normal;
+font-size: 50px;
+color: white;
+}
+h3 {color: Aquamarine;
+font-size: 16px;
+}
+h2 {font-weight: 300;
+font-size: 42px;
+color: white;
+}
+.camp{font-size: 21px;
+color: gray;
+}
+.copyright {text-align: right;
+color: gray;
+font-size: 21px
+}
